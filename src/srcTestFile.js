@@ -1,0 +1,4 @@
+﻿//Testfile
+(function (){
+    return true;
+})()
